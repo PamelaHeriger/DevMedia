@@ -1,0 +1,63 @@
+body{
+    background-color: white
+}
+
+h1{
+    padding-top: 10px;
+    padding-bottom: 15px;
+    font-weight: bold;
+    font-family: Tahoma;
+    text-align: center;
+    line-height: 1px;
+    color: black;
+}
+
+img{
+    width: 190px;
+    height: auto;
+}
+
+div{
+    padding-bottom: 50px;
+    text-align:center;
+    border-top: 1px solid #d5d5d5;
+}
+
+h2, h3, h4{
+    font-size:24px;
+    color: black;
+    font-family: Tahoma;
+    text-align: center;
+    line-height: 1px;
+    font-weight: bold;
+    padding-top: 15px;
+    
+}
+
+p{
+    width:930px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    font-family: Tahoma;
+    margin-left: auto;
+    margin: auto;
+    font-size: 22px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+span{
+    font-weight: bold;
+}
+
+a{
+    font-size: 14px;
+    background-color: green;
+    padding: 12px;
+    text-decoration: none;
+    color:white;
+    border-radius: 20px;
+}
+
+
+
