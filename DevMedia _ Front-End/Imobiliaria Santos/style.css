@@ -1,0 +1,174 @@
+body{
+	
+	font-family:Tahoma;
+}
+
+div {
+	padding-top:30px;
+	padding-bottom:30px;
+	text-align: center;
+}
+
+.cabecario {
+	background-color:#afddfb;
+}
+
+.apresentacao-imobiliaria {
+	background-color: #ffffff;
+}
+
+
+}
+.servicos-imobiliaria h2{
+	font-size:28px;
+	line-height:42px;
+}
+
+.contato-imobiliaria {
+	background-color: #1d80c1;
+	color:#ffffff;
+}
+
+.contato-imobiliaria p {
+	color:#ffffff;
+	background-color:#1d1d1d;
+	padding: 15px;
+	margin-top:30px;
+	margin-bottom:30px;
+}
+
+.contato-imobiliaria span{
+	color:#fff81b;
+}
+
+.logotipo-imobiliaria {
+	width:150px;
+}
+
+.cabecario a{
+	font-size:18px;
+	color:#1d1d1d;
+	border-bottom: 2px solid #1d1d1d;
+	text-decoration:none;
+	margin-top:0;
+	margin-bottom:0px;
+	margin-left:10px;
+	margin-right:10px;
+}
+.cabecario p {
+	margin-top:15px;
+	margin-bottom:25px;
+	text-align:center;
+}
+
+p {
+	margin-top:10px;
+	margin-bottom:10px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:justify;
+	width: 980px;
+	line-height:28px;
+	font-size:18px;
+}
+
+.apresentacao-imobiliaria {
+	margin-top: 50px;
+	margin-bottom:0;
+}
+
+.apresentacao-imobiliaria h1{
+	color:#1d1d1d;
+	margin-bottom:5px;
+}
+
+.apresentacao-imobiliaria h2{
+	color:#1c81c0;
+	margin-top:0;
+	font-weight:normal;
+}
+
+span {
+	font-weight: bold;
+}
+
+.servicos-imobiliaria {
+	background-color: #1d80c1;
+	color:#ffffff;
+}
+
+
+.imovel {
+	width:450px;
+}
+
+.apresentacao-imobiliaria .texto-imovel {
+	color:#1d80c1;
+	font-weight:bold;
+}
+
+.servicos-imobiliaria span{
+	color:#fff81b;
+}
+
+.servicos-imobiliaria p{
+	color:#ffffff;
+	line-height:42px;
+	font-size:22px;
+	width:700px;
+	text-align:center;
+}
+
+.servicos-imobiliaria ul {
+	margin-top:40px;
+	margin-bottom:40px;
+	margin-left:auto;
+	margin-right:auto;
+	width:135px;
+}
+
+.servicos-imobiliaria li {
+	color:#ffffff;
+	line-height:42px;
+	text-align: left;
+	font-size:22px;
+}
+
+.corretores-imobiliaria h2{
+	color:#1d80c1;
+	
+}
+
+.corretor {
+	width:450px;
+}
+
+.texto-corretor {
+	color:#1d80c1;
+	font-weight:bold;
+}
+
+.contato-imobiliaria ul{
+	margin-top:40px;
+	margin-bottom:40px;
+	margin-left:auto;
+	margin-right:auto;
+	width:210px;
+}
+
+.contato-imobiliaria li {
+	margin-top:15px;
+	text-align:center;
+	font-size:18px;
+	list-style:none;
+}
+
+.contato-imobiliaria a{
+	background-color:#ffffff;
+	color:#1d80c1;
+	padding-top:2px;
+	padding-bottom:2px;
+	padding-left:5px;
+	padding-right:5px;
+	border-radius:5px;
+}
